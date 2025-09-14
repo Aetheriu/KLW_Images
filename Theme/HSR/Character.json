@@ -1,0 +1,27 @@
+{      
+    "number": "1",      
+    "data": [      
+        {      
+            "name": "NARUTO",      
+            "color": "#FFedc900",      
+            "profile": "https://raw.githubusercontent.com/Aetheriu/KLW_Images/main/Theme/Naruto/Image/Character/Profile/0.png",      
+            "star": "5",      
+            "Lie": {      
+                "BG": "https://raw.githubusercontent.com/Aetheriu/KLW_Images/main/Theme/Naruto/Image/Character/Lie/BG/0.jpg",      
+                "Character": "https://raw.githubusercontent.com/Aetheriu/KLW_Images/main/Theme/Naruto/Image/Character/Lie/Character/0.png"      
+            },      
+            "WP": {      
+                "Counter": "1",      
+                "Link": "https://raw.githubusercontent.com/Aetheriu/KLW_Images/main/Theme/Naruto/Image/Character/WP/0/<N>.png"      
+            },      
+            "mingtu": {      
+                "Name": "Shinobi",      
+                "Link": "https://raw.githubusercontent.com/Aetheriu/KLW_Images/main/Theme/Naruto/Image/Icon/Path/Shinobi.png"      
+            },      
+            "shuxing": {      
+                "Name": "Chakra",      
+                "Link": "https://raw.githubusercontent.com/Aetheriu/KLW_Images/main/Theme/Naruto/Image/Icon/Attribute/Chakra.png"      
+            }      
+        }      
+    ]      
+}
